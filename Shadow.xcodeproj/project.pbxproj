@@ -12,7 +12,7 @@
 		9D2DA8ED231BEED80031BAD3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D2DA8EB231BEED80031BAD3 /* Main.storyboard */; };
 		9D2DA8EF231BEEDA0031BAD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9D2DA8EE231BEEDA0031BAD3 /* Assets.xcassets */; };
 		9D2DA8F2231BEEDA0031BAD3 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9D2DA8F0231BEEDA0031BAD3 /* LaunchScreen.storyboard */; };
-		9D2DA8FB231BF1F20031BAD3 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9D2DA8FA231BF1F10031BAD3 /* demo.gif */; };
+		9D2DA8FF231BF64D0031BAD3 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 9D2DA8FE231BF64D0031BAD3 /* demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,7 +23,7 @@
 		9D2DA8EE231BEEDA0031BAD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9D2DA8F1231BEEDA0031BAD3 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D2DA8F3231BEEDA0031BAD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		9D2DA8FA231BF1F10031BAD3 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
+		9D2DA8FE231BF64D0031BAD3 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,7 +70,7 @@
 		9D2DA8F9231BF1D90031BAD3 /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				9D2DA8FA231BF1F10031BAD3 /* demo.gif */,
+				9D2DA8FE231BF64D0031BAD3 /* demo.gif */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -134,9 +134,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				9D2DA8F2231BEEDA0031BAD3 /* LaunchScreen.storyboard in Resources */,
+				9D2DA8FF231BF64D0031BAD3 /* demo.gif in Resources */,
 				9D2DA8EF231BEEDA0031BAD3 /* Assets.xcassets in Resources */,
 				9D2DA8ED231BEED80031BAD3 /* Main.storyboard in Resources */,
-				9D2DA8FB231BF1F20031BAD3 /* demo.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
